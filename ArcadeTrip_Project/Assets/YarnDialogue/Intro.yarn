@@ -1,0 +1,152 @@
+title: Start
+tags: 
+colorID: 0
+position: 539,228
+---
+<< Act Sylvie, concern, 0.15, center, red>> 
+<< Act Jupiter, idle,0.40, center, white>> 
+Sylvie: Holy shit I was not ready for it to go from being so light to so dark.
+
+<< Act Theo, idle, 0.65, center, yellow>> 
+<<Act Adrian, idle, 0.9,center,blue>>
+
+Theo: They gotta have the gamer ambiance in here! What kinda arcade would it be without it?!
+
+Jupiter: I mean you can’t argue with that.
+
+Theo: My logic is airtight 100% of the time. 
+Theo: Anyway, what games are y’all eyeing?
+
+<< Flip Sylvie>> 
+<< Act Sylvie, idle>>
+Sylvie: Well after my eyes adjust to the “gamer ambiance", I have to look around and see what games give the most tickets first.
+
+Jupiter: Already have a plush in mind?
+
+<< Flip Sylvie>> 
+<< Act Sylvie, concern>>
+Sylvie: I’ll see, but no matter what the top shelf plushies are gonna cost a lot so I can’t waste any quarters!
+
+<< Act Theo, angry>> 
+Theo: Wait, did you really compare arcade stuffed animals to expensive drinks at a bar? 
+Theo: That’s hysterical.
+
+<< Act Sylvie, concern>> 
+<< Shake Sylvie>>
+Sylvie: First off, they’re plushies, not stuffed animals, and also they’re more valuable than any alcohol. 
+Sylvie: They don’t get you addicted after all.
+
+<< Act Jupiter, concern>> 
+Jupiter: Are you sure about that? How much money have you spent in the last year on plushies alone?
+
+<<Flip Sylvie >>
+Sylvie: ...
+<< Flip Sylvie>>
+Sylvie: Fine. You have a point.
+
+<<Act Theo, idle>>
+Theo: Adrian, what games were you thinking about?
+
+<<Act Adrian, concern>>
+Adrian: Oh uh… I don’t know.
+Adrian: I’m cool with playing whatever games you guys want to play.
+
+Theo: There’s no way you don’t have a favorite type of arcade game. 
+Theo: I’ll play a round or two with you on whatever you wanna play.
+
+<<Act Jupiter, idle>>
+Jupiter: Theo, you should play more than just two quarters worth of games with him...
+
+Theo: But that’s where y’all come in! I’m not gonna be the only one to play with him.
+
+Jupiter: Well yeah, but two rounds is still not that much...
+
+Adrian: Oh, I’ll just play what you guys want.
+<<Act Adrian, idle>>
+Adrian: Really! Don’t worry about me.
+<<Act Sylvie, idle>>
+Sylvie: No way! You’re not a third wheel here.
+
+Jupiter: Or a fourth wheel.
+
+Theo: I’m not gonna play anything until you pick a game for the two of us to play together.
+
+Adrian: Ok, ok. I’ll take a look around for something.
+
+Sylvie: What about you, Jupi?
+
+Jupiter: I don’t know, I’ll just hang out with y’all.
+
+<<Shake Sylvie>>
+Sylvie: Bestie. We just told Adrian he had to play games he wanted… Are you really gonna do the same thing?
+
+Jupiter: I’ll try out the games y’all want to play and then I’ll play whichever ones I think seem cool.
+
+Theo: Well if you’re making the rounds, I wanna play Hectic Hairdos and see which one of us can get the higher score.
+
+<<Act Jupiter, concern>>
+Jupiter: Don’t you get on the leaderboard for that every single time you come to an arcade that has it?
+
+Theo: I actually gotta check if my score from last time is still here.
+
+<<Flip Jupiter>>
+Jupiter: ...
+
+<<Shake Theo>>
+Theo: But you’re good at arcade games! I bet you could beat me.
+Theo: How about this
+Theo: If you win, You’ll get the tickets I earned.
+Theo: But if I win, I’ll give you the tickets I earned.
+
+<<Flip Jupiter>>
+Jupiter: So either way you’ll give me your tickets...
+
+Theo: There you go! That’s the kinda smartness it’ll take to beat me!
+
+<< Act Sylvie, concern>>
+Sylvie: Isn’t Hectic Hairdos more about reflexes than intelligence? It’s not like a quiz game.
+<<Act Sylvie, idle>>
+Sylvie: Anyway I call dibs on playing with Jupi for a bit so we can earn some tickets together.
+
+<<Act Jupiter, concern>>
+Jupiter: You can’t call dibs on me like I’m shotgun in a car...
+<<Act Jupiter, idle>>
+Jupiter: You know I’ll play some games with you regardless.
+
+Sylvie: I know, but I like making you feel wanted.
+
+<<Act Theo, angry>>
+Theo: You better watch out. She’s buttering you up to steal your tickets.
+
+<<Act Sylvie, concern>>
+<<Flip Sylvie>>
+Sylvie: I won’t steal them!
+Sylvie: I’ll just keep asking until they give them all to me.
+
+<<Act Jupiter, concern>>
+Jupiter: I’ll figure out what to do with my tickets once I have them all.
+Jupiter: Harass me all you want but you won’t sway me.
+<<Act Jupiter, idle>>
+Jupiter: Well actually you might sway me, but it won’t be in the direction you want.
+<<Flip Sylvie>>
+Sylvie: Fine... 
+
+Theo: Just keep an eye on how many you have...
+<<Act Theo, idle>>
+Theo: I wouldn’t be shocked if a couple accidentally end up in a certain someone’s pocket.
+
+<<Shake Sylvie>>
+Sylvie: I said I won’t steal them!
+<<Act Sylvie, idle>>
+Sylvie: Anyway, I’m gonna go scout out some games I might wanna play. You wanna come with Jupi?
+
+Jupiter: I’ll do some looking around on my own, but if you have something in mind I’d be down to play it with you.
+
+Theo: I know the games that are here, but Adrian, would you wanna take a spin around together and find a game that you’d wanna play?
+
+Adrian: Sounds good.
+
+Theo: Alright, we’ve got our plans solidified. Break!
+
+<<UnityScene HairGame>>
+===

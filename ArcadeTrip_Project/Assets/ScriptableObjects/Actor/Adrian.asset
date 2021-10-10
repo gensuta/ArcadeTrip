@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71389c973db22ec419b8cbe2367d0f33, type: 3}
+  m_Name: Adrian
+  m_EditorClassIdentifier: 
+  actorName: Adrian
+  actorSprites:
+  - spriteName: idle
+    spriteImage: {fileID: 21300000, guid: dd7b9f957a6e33c44aa7a869898577b8, type: 3}
+  - spriteName: concern
+    spriteImage: {fileID: 21300000, guid: 5bdb0f0e6f34a3b40bd87ab363390f1a, type: 3}

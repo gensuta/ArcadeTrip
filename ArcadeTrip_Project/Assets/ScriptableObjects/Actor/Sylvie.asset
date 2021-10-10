@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71389c973db22ec419b8cbe2367d0f33, type: 3}
+  m_Name: Sylvie
+  m_EditorClassIdentifier: 
+  actorName: Sylvie
+  actorSprites:
+  - spriteName: idle
+    spriteImage: {fileID: 21300000, guid: 7aeba14e5df19b342a9b5bb74cc0e8d7, type: 3}
+  - spriteName: concern
+    spriteImage: {fileID: 21300000, guid: 913f529a8f483424393d053998e9c5ab, type: 3}

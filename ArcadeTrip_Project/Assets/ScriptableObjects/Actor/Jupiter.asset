@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71389c973db22ec419b8cbe2367d0f33, type: 3}
+  m_Name: Jupiter
+  m_EditorClassIdentifier: 
+  actorName: Jupiter
+  actorSprites:
+  - spriteName: idle
+    spriteImage: {fileID: 21300000, guid: a208ed1c09914574287e6d3abe62fbf5, type: 3}
+  - spriteName: concern
+    spriteImage: {fileID: 21300000, guid: d580f68066a7c0542bb971c110664abf, type: 3}
