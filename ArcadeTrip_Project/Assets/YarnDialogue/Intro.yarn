@@ -1,12 +1,12 @@
-title: Start
+title: GroupchatIntoTheArcade
 tags: 
 colorID: 0
-position: 539,228
+position: 535,224
 ---
+<<Scene arcadebg-temp>>
 << Act Sylvie, concern, 0.15, center, red>> 
 << Act Jupiter, idle,0.40, center, white>> 
 Sylvie: Holy shit I was not ready for it to go from being so light to so dark.
-
 << Act Theo, idle, 0.65, center, yellow>> 
 <<Act Adrian, idle, 0.9,center,blue>>
 
@@ -37,18 +37,22 @@ Sylvie: First off, they’re plushies, not stuffed animals, and also they’re m
 Sylvie: They don’t get you addicted after all.
 
 << Act Jupiter, concern>> 
-Jupiter: Are you sure about that? How much money have you spent in the last year on plushies alone?
+Jupiter: Are you sure about that?
+Jupiter: How much money have you spent in the last year on plushies alone?
 
 <<Flip Sylvie >>
 Sylvie: ...
 << Flip Sylvie>>
 Sylvie: Fine. You have a point.
+//pause between "fine" and "you have a point"
 
 <<Act Theo, idle>>
 Theo: Adrian, what games were you thinking about?
 
 <<Act Adrian, concern>>
-Adrian: Oh uh… I don’t know.
+
+Adrian: Oh uh... I don’t know.
+//very short pause between each dot in the elipsis
 Adrian: I’m cool with playing whatever games you guys want to play.
 
 Theo: There’s no way you don’t have a favorite type of arcade game. 
@@ -79,13 +83,14 @@ Jupiter: I don’t know, I’ll just hang out with y’all.
 
 <<Shake Sylvie>>
 Sylvie: Bestie. We just told Adrian he had to play games he wanted… Are you really gonna do the same thing?
+//very short pause between "bestie" and "we just told"
 
 Jupiter: I’ll try out the games y’all want to play and then I’ll play whichever ones I think seem cool.
 
 Theo: Well if you’re making the rounds, I wanna play Hectic Hairdos and see which one of us can get the higher score.
 
 <<Act Jupiter, concern>>
-Jupiter: Don’t you get on the leaderboard for that every single time you come to an arcade that has it?
+Jupiter: Isn’t that the game that you get on the leaderboard every single time you come to an arcade that has it?
 
 Theo: I actually gotta check if my score from last time is still here.
 
@@ -95,6 +100,7 @@ Jupiter: ...
 <<Shake Theo>>
 Theo: But you’re good at arcade games! I bet you could beat me.
 Theo: How about this
+//add colon after "about this"
 Theo: If you win, You’ll get the tickets I earned.
 Theo: But if I win, I’ll give you the tickets I earned.
 
@@ -104,7 +110,7 @@ Jupiter: So either way you’ll give me your tickets...
 Theo: There you go! That’s the kinda smartness it’ll take to beat me!
 
 << Act Sylvie, concern>>
-Sylvie: Isn’t Hectic Hairdos more about reflexes than intelligence? It’s not like a quiz game.
+Sylvie: Isn’t Hectic Hairdos more about reflexes than intelligence? It’s not like it's a quiz game.
 <<Act Sylvie, idle>>
 Sylvie: Anyway I call dibs on playing with Jupi for a bit so we can earn some tickets together.
 
@@ -149,4 +155,103 @@ Adrian: Sounds good.
 Theo: Alright, we’ve got our plans solidified. Break!
 
 <<UnityScene HairGame>>
+===
+title: HangoutTheo1
+tags: 
+colorID: 0
+position: 744,227
+---
+<<Scene arcadebg-temp>>
+<< Act Jupiter, idle,0.40, center, white>>
+<< Act Theo, idle, 0.65, center, yellow>>
+Jupiter: So that's the game you're obsessed with.
+
+Theo: Yup. Surprised I never made you play it back home.
+
+<< Act Jupiter, concern>>
+Jupiter: Well I mean, we haven't been to an arcade together since we were in like... middle school. So I don't know when you would have even had the chance.
+
+<< Act Theo, angry>>
+Theo: Really? Are you sure?
+//add very short pause between "really?" and "are you sure?"
+
+<< Act Jupiter, idle>>
+Jupiter: Yep. Positive.
+//add very short pause between "yep" and "positive"
+
+Theo: Wait, were you not at the tournament I played in? I could've sworn you were there.
+//add a short pause between sentences
+
+<< Act Jupiter, concern>>
+Jupiter: What? You played in a tournament for this?
+
+Theo: You don't even remember it? I feel like I told everyone about it...
+<<Act Theo, angry>>
+Theo: Oh shit, it was during my senior year in high school, so you were already in school here.
+
+<<Act Jupiter, idle>>
+Jupiter: Ah that makes sense. If I was there I probably would have come just because I'm so curious what a tournament for this would look like.
+
+Theo: You wouldn't come to support me?
+
+<<Act Jupiter, concern>>
+Jupiter: Well I thought that would go without saying.
+Jupiter: But still, what did you do?
+
+<<Act Theo, idle>>
+Theo: It was basically a series of 1v1s and whoever had the higher score would move on in the tournament.
+Theo: The cool thing was that the arcade I played at hacked the machines an got each pair of machines to run the exact same, so both people had the same haircut requirements.
+
+Jupiter: I wouldn’t have expected a tournament for a silly arcade game like this to be so serious.
+<<Act Jupiter, idle>>
+Jupiter: So, how’d you do?
+
+Theo: I did pretty well! I made it to semis and ended up getting 4th place.
+
+Jupiter: Oh wow, how many people were there?
+
+Theo: There were a lot! Most were people I brought to support me, but other people were there watching.
+
+Jupiter: Oh cool… although I meant how many people actually played.
+
+Theo: Ah… I think there were 8 of us.
+
+Jupiter: Ah, nice.
+<<Act Jupiter, concern>>
+Jupiter: Wait. So you won one round and then lost?
+
+<<Act Theo, angry>>
+Theo: Well when you put it that way it sounds lame.
+
+<<Act Jupiter, concern>>
+Jupiter: But I’m not wrong am I?
+
+Theo: *Sigh*
+<<Act Theo, idle>>
+Theo: Nope, you're right.
+<<Act Theo, angry>>
+Theo: But the other people were really good! One of the finalists worked at the arcade, and the other was her friend who hacked the machines. So I feel like I was at a disadvantage from the start.
+
+Jupiter: I guess you were, haha.
+<<Act Jupiter, idle>>
+Jupiter: I’m surprised you never told me about this. What other stuff happened during your senior year that I don’t know about?
+
+Theo: How am I supposed to know what you don’t know?
+<<Act Theo, idle>>
+Theo: Plus I don’t really remember too much about what I actually did then.
+Theo: All I remember is being stressed about getting into college, and then not caring about school because I already got into college.
+
+Jupiter: I guess I’m the same. I feel like I won’t remember anything unless something happens that would remind me of it.
+
+Theo: Like say… playing an arcade game that you used to play?
+
+Jupiter: Yeah, I guess that would do it, haha.
+
+Theo: I think I’m gonna go check up on Adrian, see how he’s doing. I’m worried he might just be wandering around.
+Theo: But we should play this again! If you’ve got some more coins to spare, I’d love to try to actually 1v1 you.
+
+Jupiter: Are you gonna hack the machines to make it even?
+
+Theo: You know I’m not smart enough to do that.
+Theo: But I’ll prob be back here eventually, so just come by if you want to play more!
 ===
