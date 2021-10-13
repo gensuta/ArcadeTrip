@@ -11,10 +11,16 @@ public class ExtraYarnCommands : MonoBehaviour
     void Awake()
     {
         runner.AddCommandHandler<string>("UnityScene", DoUnitySceneChange);
+        runner.AddCommandHandler<string>("pause", DoPause);
     }
 
     void DoUnitySceneChange(string sceneName)
     {
         SceneManager.LoadScene(sceneName);
+    }
+
+    void DoPause(string time)
+    {
+       float seconds = float.Parse(time);
     }
 }
