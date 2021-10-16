@@ -613,7 +613,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1460432871
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -787,6 +787,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cursor: {fileID: 1460432870}
   done: 0
+  rotateRight: 0
+  cuttingLine: 0
+  rotateAmt: {x: 0, y: 0, z: 1}
 --- !u!212 &1637900239
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -844,13 +847,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1637900237}
-  m_LocalRotation: {x: 0, y: 0, z: 0.0020944288, w: 0.99999785}
+  m_LocalRotation: {x: 0, y: 0, z: 0.42261827, w: 0.9063079}
   m_LocalPosition: {x: -4.37, y: 3.56, z: -4}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.24}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 50}
 --- !u!50 &1637900241
 Rigidbody2D:
   serializedVersion: 4
