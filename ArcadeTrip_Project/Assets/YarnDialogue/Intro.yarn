@@ -4,10 +4,10 @@ colorID: 0
 position: 535,224
 ---
 <<Scene arcadebg-temp>>
-<< Act Sylvie, concern, 0.15, center, red>> 
-<< Act Jupiter, idle,0.40, center, white>> 
+<< Act Sylvie, concern, 0.50, center, red>> 
+<< Act Jupiter, idle,0.15, center, white>> 
 Sylvie: Holy shit I was not ready for it to go from being so light to so dark.
-<< Act Theo, idle, 0.65, center, yellow>> 
+<< Act Theo, idle, 0.7, center, yellow>> 
 <<Act Adrian, idle, 0.9,center,blue>>
 
 Theo: They gotta have the gamer ambiance in here! What kinda arcade would it be without it?!
@@ -162,8 +162,8 @@ colorID: 0
 position: 744,227
 ---
 <<Scene arcadebg-temp>>
-<< Act Jupiter, idle,0.40, center, white>>
-<< Act Theo, idle, 0.65, center, yellow>>
+<< Act Jupiter, idle,0.25, center, white>>
+<< Act Theo, idle, 0.75, center, yellow>>
 Jupiter: So that's the game you're obsessed with.
 
 Theo: Yup. Surprised I never made you play it back home.
